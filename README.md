@@ -1,2 +1,2 @@
-#My project
-Currently laying the groundwork for a correct repository.
+#Test project
+My try at seting up a git repository correctly.
